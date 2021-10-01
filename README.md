@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarlanViegas&layout=compact&langs_count=16&theme=dark"/>
 </div>
   <p align="center">
-<a href="https://www.linkedin.com/in/darlanviegas/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in//darlan-viegas-7b3689132/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 
 <!--
