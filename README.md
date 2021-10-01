@@ -4,6 +4,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DarlanViegas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarlanViegas&layout=compact&langs_count=16&theme=dark"/>
 </div>
+  <p align="center">
+<a href="https://www.linkedin.com/in/darlanviegas/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
 
 <!--
 **Darlanviegas/DarlanViegas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
